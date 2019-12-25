@@ -1,2 +1,2 @@
 # Hangman
-Construct a Hangman game with an interactive display;  Utilize the keys or mouse clicks to guess the word
+Construct a Hangman game with an interactive display;  Utilize the keyboard or mouse clicks to guess the word
